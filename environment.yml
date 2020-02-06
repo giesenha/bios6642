@@ -53,5 +53,6 @@ dependencies:
   - seaborn=0.10.0
   - setuptools=45.1.0
   - widgetsnbextension=3.5.1
+  - pip:
+    - jupyter-offlinenotebook==0.0.11
 prefix: /Users/seth/anaconda3/envs/bios6642
-
