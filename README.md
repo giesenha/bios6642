@@ -7,5 +7,4 @@ You can run and view these notebooks using Binder, a free Jupyter notebook hosti
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/magic-lantern/bios6642/master)
 
-
 Alternatively, you can run a JupyterLab version: (https://mybinder.org/v2/gh/magic-lantern/bios6642/master?urlpath=lab)
