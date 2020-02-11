@@ -3,3 +3,4 @@ def myfunc(inparm="no value provided to function"):
     return
 
 print('hello from sample.py')
+print('another new line')
